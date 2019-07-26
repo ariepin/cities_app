@@ -1,0 +1,6 @@
+en:
+  hello: "Hello world"
+  city:
+    added: City is added to your favourites list
+    removed: City is removed from your favourites list
+    unique: is already in your favourites list
